@@ -1,2 +1,2 @@
-require "./sinatra_reverser.rb'
+require './sinatra_reverser.rb'
 run Sinatra::Application
